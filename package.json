@@ -5,6 +5,7 @@
   "repository": "pmarsceill/just-the-docs",
   "license": "MIT",
   "bugs": "https://github.com/pmarsceill/just-the-docs/issues",
+  "@kakao/matrix-webpack-plugin": "^0.0.13",
   "devDependencies": {
     "stylelint": "^13.7.2",
     "@primer/css": "^15.2.0",
