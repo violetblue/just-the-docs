@@ -13,7 +13,7 @@
     "stylelint-config-primer": "^9.2.1",
     "stylelint-prettier": "^1.1.2",
     "stylelint-selector-no-utility": "^4.0.0",
-    "@kakao/matrix-webpack-plugin": "^0.0.13"
+    "@kakao/alex-kalive": "^2.0.1"
   },
   "scripts": {
     "test": "stylelint '**/*.scss'",
